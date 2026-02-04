@@ -1,0 +1,8 @@
+{
+  "name": "Clinical Wound Management System",
+  "description": "A professional weekly wound reporting and analysis application for medical staff, featuring data tracking, PDF/Excel export, and an AI-powered clinical assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

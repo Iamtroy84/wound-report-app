@@ -1,0 +1,9 @@
+
+@echo off
+echo 🏥 Starting Clinical Wound Database...
+echo ---------------------------------------
+echo 1. Checking for updates...
+call npm install --quiet
+echo 2. Launching Server...
+start "" http://localhost:5173
+npm run dev
